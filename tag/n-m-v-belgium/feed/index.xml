@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>N.M. v. Belgium &#8211; Migration Law Blog</title>
+	<atom:link href="https://migrationlaw.org/tag/n-m-v-belgium/feed/" rel="self" type="application/rss+xml" />
+	<link>https://migrationlaw.org/</link>
+	<description>Migrants&#039; Human Rights</description>
+	<lastBuildDate>Sat, 06 May 2023 15:05:14 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>AFFAIRE N.M. v. BELGIUM, European Court of Human Rights</title>
+		<link>https://migrationlaw.org/affaire-n-m-v-belgium-european-court-of-human-rights/</link>
+					<comments>https://migrationlaw.org/affaire-n-m-v-belgium-european-court-of-human-rights/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Sat, 06 May 2023 15:05:13 +0000</pubDate>
+				<category><![CDATA[Blog Posts]]></category>
+		<category><![CDATA[Asylum procedures]]></category>
+		<category><![CDATA[Deprivation of liberty]]></category>
+		<category><![CDATA[ECtHR]]></category>
+		<category><![CDATA[European Convention on Human Rights (ECHR)]]></category>
+		<category><![CDATA[Immigration detention]]></category>
+		<category><![CDATA[N.M. v. Belgium]]></category>
+		<category><![CDATA[National security]]></category>
+		<category><![CDATA[Third-country nationals]]></category>
+		<guid isPermaLink="false">https://migrationlaw.org/?p=878</guid>
+
+					<description><![CDATA[The European Court of Human Rights issued a decision in the case of N.M. v. Belgium on 18 April 2023, which pertained to a period of immigration detention exceeding two&#8230;]]></description>
+		
+					<wfw:commentRss>https://migrationlaw.org/affaire-n-m-v-belgium-european-court-of-human-rights/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
