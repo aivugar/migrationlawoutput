@@ -1,2 +1,0 @@
-# migrationlawoutput
- Migration Law Blog
