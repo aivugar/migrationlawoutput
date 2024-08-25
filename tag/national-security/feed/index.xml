@@ -12,7 +12,7 @@
 	<atom:link href="https://migrationlaw.org/tag/national-security/feed/" rel="self" type="application/rss+xml" />
 	<link>https://migrationlaw.org/</link>
 	<description>Migrants&#039; Human Rights</description>
-	<lastBuildDate>Sat, 06 May 2023 15:05:14 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Aug 2024 15:01:02 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>AFFAIRE N.M. v. BELGIUM, European Court of Human Rights</title>
 		<link>https://migrationlaw.org/affaire-n-m-v-belgium-european-court-of-human-rights/</link>
-					<comments>https://migrationlaw.org/affaire-n-m-v-belgium-european-court-of-human-rights/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Sat, 06 May 2023 15:05:13 +0000</pubDate>
@@ -39,8 +38,6 @@
 
 					<description><![CDATA[The European Court of Human Rights issued a decision in the case of N.M. v. Belgium on 18 April 2023, which pertained to a period of immigration detention exceeding two&#8230;]]></description>
 		
-					<wfw:commentRss>https://migrationlaw.org/affaire-n-m-v-belgium-european-court-of-human-rights/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

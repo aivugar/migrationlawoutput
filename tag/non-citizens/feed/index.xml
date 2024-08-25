@@ -12,7 +12,7 @@
 	<atom:link href="https://migrationlaw.org/tag/non-citizens/feed/" rel="self" type="application/rss+xml" />
 	<link>https://migrationlaw.org/</link>
 	<description>Migrants&#039; Human Rights</description>
-	<lastBuildDate>Wed, 26 Apr 2023 13:54:27 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Aug 2024 15:02:02 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>Democracy and Citizenship: Franchising Right to Vote to Non-Citizens</title>
 		<link>https://migrationlaw.org/democracy-and-citizenship-franchising-right-to-vote-to-non-citizens/</link>
-					<comments>https://migrationlaw.org/democracy-and-citizenship-franchising-right-to-vote-to-non-citizens/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Mon, 19 Sep 2022 18:23:21 +0000</pubDate>
@@ -37,8 +36,6 @@
 
 					<description><![CDATA[]]></description>
 		
-					<wfw:commentRss>https://migrationlaw.org/democracy-and-citizenship-franchising-right-to-vote-to-non-citizens/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

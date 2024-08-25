@@ -12,7 +12,7 @@
 	<atom:link href="https://migrationlaw.org/tag/iom/feed/" rel="self" type="application/rss+xml" />
 	<link>https://migrationlaw.org/</link>
 	<description>Migrants&#039; Human Rights</description>
-	<lastBuildDate>Tue, 24 Jan 2023 14:25:27 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Aug 2024 15:01:58 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>From International Organisation for Migration (IOM) to World Migration Organisation (WMO)</title>
 		<link>https://migrationlaw.org/from-international-organisation-for-migration-iom-to-world-migration-organisation-wmo/</link>
-					<comments>https://migrationlaw.org/from-international-organisation-for-migration-iom-to-world-migration-organisation-wmo/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Tue, 24 Jan 2023 01:29:18 +0000</pubDate>
@@ -33,8 +32,6 @@
 
 					<description><![CDATA[The International Organization for Migration (IOM) is an intergovernmental organization that was established in 1951 with the purpose of providing services and assistance to migrants. Over the years, the organization&#8230;]]></description>
 		
-					<wfw:commentRss>https://migrationlaw.org/from-international-organisation-for-migration-iom-to-world-migration-organisation-wmo/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -12,7 +12,7 @@
 	<atom:link href="https://migrationlaw.org/tag/eu-talent-pool/feed/" rel="self" type="application/rss+xml" />
 	<link>https://migrationlaw.org/</link>
 	<description>Migrants&#039; Human Rights</description>
-	<lastBuildDate>Thu, 11 May 2023 09:46:40 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Aug 2024 15:01:34 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>Navigating Immigration and Skills Development in the EU: An Overview of Current Efforts</title>
 		<link>https://migrationlaw.org/exploring-the-eus-efforts-towards-immigration-and-skills-development/</link>
-					<comments>https://migrationlaw.org/exploring-the-eus-efforts-towards-immigration-and-skills-development/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2023 22:36:45 +0000</pubDate>
@@ -37,8 +36,6 @@
 
 					<description><![CDATA[The European Union is facing a labor force shortage, which is a pressing issue resulting from an aging population and the need to acquire new skills for the green and&#8230;]]></description>
 		
-					<wfw:commentRss>https://migrationlaw.org/exploring-the-eus-efforts-towards-immigration-and-skills-development/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

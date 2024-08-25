@@ -12,7 +12,7 @@
 	<atom:link href="https://migrationlaw.org/tag/global-migration-management/feed/" rel="self" type="application/rss+xml" />
 	<link>https://migrationlaw.org/</link>
 	<description>Migrants&#039; Human Rights</description>
-	<lastBuildDate>Tue, 14 Mar 2023 23:08:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Aug 2024 15:01:46 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>IOM&#8217;s Role in Managing Migration in the EU</title>
 		<link>https://migrationlaw.org/ioms-role-in-managing-migration-in-the-eu/</link>
-					<comments>https://migrationlaw.org/ioms-role-in-managing-migration-in-the-eu/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2023 22:52:05 +0000</pubDate>
@@ -37,15 +36,12 @@
 
 					<description><![CDATA[Migration is a global issue that requires a coordinated and collaborative approach from various stakeholders. One such key player in managing migration in the European Union (EU) is the International&#8230;]]></description>
 		
-					<wfw:commentRss>https://migrationlaw.org/ioms-role-in-managing-migration-in-the-eu/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>UNHCR and IOM as Actors of Global Migration Management</title>
 		<link>https://migrationlaw.org/unhcr-and-iom-as-actors-of-global-migration-management/</link>
-					<comments>https://migrationlaw.org/unhcr-and-iom-as-actors-of-global-migration-management/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<pubDate>Fri, 03 Feb 2023 21:30:59 +0000</pubDate>
@@ -60,8 +56,6 @@
 
 					<description><![CDATA[The International Organization for Migration (IOM) is an intergovernmental organization established in 1951 that provides services and support to migrants, refugees, and other vulnerable populations around the world. The IOM&#8230;]]></description>
 		
-					<wfw:commentRss>https://migrationlaw.org/unhcr-and-iom-as-actors-of-global-migration-management/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
